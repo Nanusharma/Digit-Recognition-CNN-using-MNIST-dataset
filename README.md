@@ -20,4 +20,5 @@ This project is a digit recognition tool using the MNIST dataset. Users can draw
 - **Backend**: Flask (Python)
 - **Model**: CNN model trained using MNIST dataset
 ![image](https://github.com/user-attachments/assets/65c4768a-3f59-417e-bbed-27a81b5e6fd1)
-![image](https://github.com/user-attachments/assets/a9b50bb4-7b2a-4044-8795-fafc918e2075)
+![image](https://github.com/user-attachments/assets/2d71e6cd-dfef-4fb6-86e7-191be38c1aa9)
+
