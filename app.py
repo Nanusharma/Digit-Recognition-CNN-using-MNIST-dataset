@@ -37,7 +37,7 @@ from keras.models import load_model # type: ignore
 app = Flask(__name__)
 
 # Load the .h5 model
-model = load_model('model.h5')
+model = load_model('mnist_digit_recognizer.h5')
 
 @app.route('/pixel-values', methods=['POST'])
 def predict():
